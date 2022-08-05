@@ -1,4 +1,4 @@
-(lang dune 3.4)
+(lang dune 1.10)
 
 (name can_call)
 
@@ -9,11 +9,7 @@
 
 (authors "Mahmudul Faisal Al Ameen")
 
-(maintainers "Mahmudul Faisal Al Ameen")
-
 (license LICENSE)
-
-(documentation https://url/to/documentation)
 
 (package
  (name can_call)

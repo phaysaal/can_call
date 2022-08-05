@@ -9,7 +9,7 @@ A tool to check if a function can call another function in the give C program fi
     * clangml
     * refl
     * cmdliner
-* dune (>=3.4)
+* dune (>=1.10)
 * clang (>=13.0.0)
 
 ## Build
