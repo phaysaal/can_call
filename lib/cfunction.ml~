@@ -1,0 +1,5 @@
+let get_function_name f =
+  match f.name with
+  | IdentifierName name -> Some name
+  | _ -> None
+;;

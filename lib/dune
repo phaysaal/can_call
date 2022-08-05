@@ -1,0 +1,4 @@
+(library
+ (name can_call)
+ (preprocess (pps refl.ppx))
+ (libraries clangml refl cmdliner))

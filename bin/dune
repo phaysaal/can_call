@@ -1,0 +1,4 @@
+(executable
+ (public_name can_call)
+ (name main)
+ (libraries can_call))
